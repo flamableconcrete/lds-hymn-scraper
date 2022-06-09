@@ -1,4 +1,4 @@
 beautifulsoup4==4.11.0
-requests==2.27.1
+requests==2.28.0
 Scrapy==2.6.1
 scrapy-splash==0.8.0
